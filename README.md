@@ -5,7 +5,7 @@
 Attract villagers with a track of emeralds or by holding an emerald block to relocated them more easily.  
 No need for railroads or rowing a boat on the ground anymore!
 
-**Youtube Video** : https://youtu.be/41PYDpGfxCQ
+**Youtube Video** : https://youtu.be/UMGJ37vp6tw
 
 # ⚠️ This data pack is now outdated
 
