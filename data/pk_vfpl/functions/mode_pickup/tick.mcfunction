@@ -1,8 +1,8 @@
-# Start being attracted
-execute if entity @s[tag=!pk_vfpl_attracted,tag=!pk_vfpl_checking_loot,predicate=!pk_vfpl:has_vehicle] if entity @e[type=item,tag=pk_vfpl_pickup_mode_attractive,distance=..10] unless entity @s[nbt={NoAI:1b}] run function pk_vfpl:mode_pickup/venal_entity/start_being_attracted
+# Watch item entity
+execute as @e[type=item,tag=!pk_vfpl_checked,nbt={OnGround:1b}] run function pk_vfpl:mode_pickup/item/check_identity
 
-# Checking loot item
-execute if entity @s[tag=pk_vfpl_checking_loot] run function pk_vfpl:mode_pickup/venal_entity/check_loot_item/tick
+# Watch venal entities
+execute as @e[type=#pk_vfpl:venal_entities,tag=!pk_vfpl_guiding_entity,tag=!pk_vfpl_exclude] at @s run function pk_vfpl:mode_pickup/venal_entity/tick
 
-# Check relative guiding entity
-execute if entity @s[tag=pk_vfpl_attracted,tag=pk_vfpl_has_init_guiding_entity] run function pk_vfpl:common/venal_entity/check_relative_guiding_entity
+# Watch guiding entities
+execute as @e[type=#pk_vfpl:guiding_entities,tag=pk_vfpl_guiding_entity,tag=pk_vfpl_init] at @s run function pk_vfpl:mode_pickup/guiding_entity/tick

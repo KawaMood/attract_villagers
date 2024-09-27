@@ -21,5 +21,5 @@ team modify PKNoCollision collisionRule never
 tellraw @a [{"text":"Loaded ","color":"yellow"},{"text":"PK Attract Villagers","color":"aqua","bold":true},{"text":" successfully","color":"yellow"}]
 
 # Update if the pack was previously installed on an older version
-execute if score %pk_vfpl_version PK_VFPL_Value matches ..211 run function pk_vfpl:base/update
-scoreboard players set %pk_vfpl_version PK_VFPL_Value 212
+execute if score %pk_vfpl_version PK_VFPL_Value matches ..212 run function pk_vfpl:base/update
+scoreboard players set %pk_vfpl_version PK_VFPL_Value 214

@@ -12,7 +12,7 @@ team remove PKNoCollisionAndNoName
 data remove storage pk_vfpl:data Version
 
 # Logs
-tellraw @a [{"text":"Force update for PK Attractive Villager...","color":"red"}]
+tellraw @a[tag=pk.dev] [{"text":"Force update for PK Attractive Villager...","color":"red"}]
 
 # Reload
 reload
