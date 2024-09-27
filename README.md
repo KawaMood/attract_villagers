@@ -1,5 +1,3 @@
-﻿# attract_villagers
-
 # **Attract Villagers V.2.1.3 for MC 1.19 to 1.19.4**
 
 **Make villagers follow you or a track of emerald items!**
