@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "pk_vfpl:common/player/set_link_id"
+    }
+}
