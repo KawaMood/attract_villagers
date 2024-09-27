@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # **Attract Villagers V.3.0.0**
 
 **Make villagers follow you or a track of emerald items!**
@@ -8,13 +6,6 @@ Attract villagers with a track of emeralds or by holding an emerald block to rel
 No need for railroads or rowing a boat on the ground anymore!
 
 **Youtube Video** : https://youtu.be/41PYDpGfxCQ
-
-# ⚠️ This data pack is now outdated
-
-**This version of the data pack is for MC 1.20.5 to 1.20.6**
-If you're using a more recent of Minecraft, check other branches of the project, or the main one to get the most update version this data pack is available on.
-
-Note that these versions don't contain all features most recent ones do, and aren't supported anymore. If you're about to use them on a modified version of Minecraft (with plugins or mods), the data pack could not work as intended.
 
 # 🪄Introduction
 ## What is Attract Villagers?
