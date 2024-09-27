@@ -1,5 +1,4 @@
 {
-    "values": [
-        "pk_vfpl:base/load"
-    ]
+    "replace": false,
+    "values": [{ "required": false, "id": "pk_at_vi:_main/load" }]
 }

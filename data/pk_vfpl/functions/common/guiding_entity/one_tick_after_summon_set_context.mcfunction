@@ -1,1 +1,0 @@
-execute as @e[type=wandering_trader,tag=pk_vfpl_guiding_entity,tag=!pk_vfpl_init] at @s run function pk_vfpl:common/guiding_entity/one_tick_after_summon
