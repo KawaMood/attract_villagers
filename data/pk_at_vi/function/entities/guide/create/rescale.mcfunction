@@ -4,4 +4,4 @@
 tag @s add pk.at_vi.rescaled
 
 # Update scale
-attribute @s generic.scale base set 1
+attribute @s scale base set 1

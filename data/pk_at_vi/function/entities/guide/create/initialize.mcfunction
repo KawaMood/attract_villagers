@@ -18,4 +18,4 @@ $tag @s add pk.at_vi.mode.$(mode)
 $team join pk.at_vi.no_collision.$(id) @s
 
 # Set data
-data merge entity @s {Silent:1b,Invulnerable:true,Offers:{Recipes:[]},attributes:[{id:"generic.scale",base:0.0625}],active_effects:[{id:"invisibility",show_particles:false,duration:-1,amplifier:0}]}
+data merge entity @s {Silent:1b,Invulnerable:true,Offers:{Recipes:[]},attributes:[{id:"scale",base:0.0625}],active_effects:[{id:"invisibility",show_particles:false,duration:-1,amplifier:0}]}
