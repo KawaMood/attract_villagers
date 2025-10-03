@@ -1,11 +1,11 @@
 {
-    "id": "pk.attract_villagers",
-    "pack": {
-        "pack_format": 57,
-        "supported_formats": {
-            "min_inclusive": 57,
-            "max_inclusive": 57
-        },
-        "description": "KawaMood's Attract Villagers V.3.0.0 for Minecraft 1.21.3"
-    }
+  "id": "pk.attract_villagers",
+  "pack": {
+    "pack_format": 57,
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 57
+    },
+    "description": "KawaMood's Attract Villagers V.3.0.0 for Minecraft 1.21.3"
+  }
 }
