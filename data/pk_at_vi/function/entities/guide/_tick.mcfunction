@@ -6,6 +6,9 @@ scoreboard players operation $temp pk.at_vi.tempted_id = @s pk.at_vi.tempted_id
 # Remove potential milk bucket
 item replace entity @s weapon.mainhand with air
 
+# Remove offers
+data modify entity @s Offers set value {Recipes:[{buy:{id:"barrier",count:1},sell:{id:"barrier",count:1}}]}
+
 # ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 # Search linked entities
 # ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――

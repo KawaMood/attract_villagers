@@ -1,7 +1,8 @@
 #> pk_at_vi:entities/venal/potential/watch
 
-# @return Check if this entity has NoAI:1b or rides a vehicle
+# @return Check if this entity is baby, has NoAI:1b or rides a vehicle
 execute if entity @s[predicate=pk_at_vi:vehicle/any] run return fail
+execute if entity @s[predicate=pk_at_vi:flag/is_baby] run return fail
 execute if entity @s[nbt={NoAI:1b}] run return fail
 
 # Mark entity
