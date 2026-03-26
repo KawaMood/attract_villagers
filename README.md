@@ -7,6 +7,11 @@ No need for railroads or rowing a boat on the ground anymore!
 
 **Youtube Video** : https://youtu.be/41PYDpGfxCQ
 
+> [!WARNING]  
+> **This presentation concerns the latest available version of the data pack for Minecraft 1.21.9 to 1.21.11.**  
+> To find the most recent version, check the [main](https://github.com/KawaMood/attract_villagers) branch.  
+> For other versions, check other [branches](https://github.com/KawaMood/attract_villagers/branches/all).
+
 # 🪄Introduction
 ## What is Attract Villagers?
 
